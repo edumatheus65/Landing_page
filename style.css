@@ -56,6 +56,17 @@ h1 {
 
 .split.left {
     left: 0;
-    background: url()
+    background: url(iphone.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
+.split.right {
+    right: 0;
+    background: url(samsung.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
 
